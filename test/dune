@@ -1,0 +1,6 @@
+(library
+ (name testing)
+ (libraries core a1)
+ (inline_tests)
+ (preprocess
+  (pps ppx_jane)))
