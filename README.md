@@ -1,6 +1,6 @@
 # ocaml_assignment_example
 
-example dune setup for testing.
+example dune setup for testing assignment solutions.
 
 Simply run `dune runtest` or `dune runtest --watch` if you have fswatch or inotifywait installed.
 
